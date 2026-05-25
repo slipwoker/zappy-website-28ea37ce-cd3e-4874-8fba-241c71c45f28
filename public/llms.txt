@@ -1,0 +1,107 @@
+# Roni's Clothings — Generative Engine Optimization Map
+
+> A fashion clothing retail brand inspired by the style and experience of Renuar — a well-known Israeli fashion chain. The brand likely focuses on contemporary, trend-driven apparel for everyday wear, with a clean and accessible shopping experience similar to a mid-range fashion retailer.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover contemporary fashion made for everyday life. Roni&#39;s Clothings brings you a curated fashion boutique online with fresh arrivals, clean designs, and effortless style. Shop now!
+
+### Campaigns
+https://example.com/campaigns
+Explore our latest campaigns and exclusive seasonal promotions. From max fashion retail-inspired collections to bold trend edits, every campaign is your next style obsession. Don&#39;t miss out!
+
+### About
+https://example.com/about
+Meet the vision behind Roni&#39;s Clothings — a fashion-forward brand rooted in the h&amp;m fast fashion spirit of clean, wearable, and trend-driven design built for real people and real moments.
+
+### Contact
+https://example.com/contact
+Have a question, styling request, or partnership idea? Connect with the Roni&#39;s Clothings team today. We&#39;re part of the tech style fashion group movement — always ready to help you look your best.
+
+### Products
+https://example.com/products
+Our Products - Roni's Clothings
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Roni's Clothings
+
+### Category
+https://example.com/category/:slug
+Products - Roni's Clothings
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+**Total active products: 1**
+
+### black shirt 
+https://example.com/product/black-shirt-wjekr4
+- Price: 15.00 USD
+- Availability: In stock
+- Category: woman shirts
+- Image: https://example.com/assets/product-enhanced-1779720656065-ggint.webp
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Roni's Clothings
+A fashion clothing retail brand inspired by the style and experience of Renuar — a well-known Israeli fashion chain. The brand likely focuses on contemporary, trend-driven apparel for everyday wear, with a clean and accessible shopping experience similar to a mid-range fashion retailer.
+
+## Target Audience
+- Sustainable Fashion Enthusiasts
+- Online Fashionistas
+- Working Professionals
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

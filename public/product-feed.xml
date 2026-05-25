@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Roni&apos;s Clothings</title>
+    <link>https://example.com</link>
+    <description>Product feed for Roni&apos;s Clothings</description>
+    <lastBuildDate>Mon, 25 May 2026 14:55:46 GMT</lastBuildDate>
+    <item>
+      <g:id>29b2f063-e947-4e54-aa88-825249b10aff</g:id>
+      <g:title>black shirt </g:title>
+      <g:description>black shirt</g:description>
+      <g:link>https://example.com/product/black-shirt-wjekr4</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1779720656065-ggint.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Roni&apos;s Clothings</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>woman shirts</g:product_type>
+    </item>
+  </channel>
+</rss>
