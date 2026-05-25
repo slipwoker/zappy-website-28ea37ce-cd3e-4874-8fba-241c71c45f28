@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://example.com
+https://roni-s-clothings.zappy5.app
 Discover contemporary fashion made for everyday life. Roni&#39;s Clothings brings you a curated fashion boutique online with fresh arrivals, clean designs, and effortless style. Shop now!
 
 ### Campaigns
-https://example.com/campaigns
+https://roni-s-clothings.zappy5.app/campaigns
 Explore our latest campaigns and exclusive seasonal promotions. From max fashion retail-inspired collections to bold trend edits, every campaign is your next style obsession. Don&#39;t miss out!
 
 ### About
-https://example.com/about
+https://roni-s-clothings.zappy5.app/about
 Meet the vision behind Roni&#39;s Clothings — a fashion-forward brand rooted in the h&amp;m fast fashion spirit of clean, wearable, and trend-driven design built for real people and real moments.
 
 ### Contact
-https://example.com/contact
+https://roni-s-clothings.zappy5.app/contact
 Have a question, styling request, or partnership idea? Connect with the Roni&#39;s Clothings team today. We&#39;re part of the tech style fashion group movement — always ready to help you look your best.
 
 ### Products
-https://example.com/products
+https://roni-s-clothings.zappy5.app/products
 Our Products - Roni's Clothings
 
 ### Cart
-https://example.com/cart
+https://roni-s-clothings.zappy5.app/cart
 Your Cart
 
 ### Checkout
-https://example.com/checkout
+https://roni-s-clothings.zappy5.app/checkout
 Checkout
 
 ### Login
-https://example.com/login
+https://roni-s-clothings.zappy5.app/login
 Customer Login
 
 ### Account
-https://example.com/account
+https://roni-s-clothings.zappy5.app/account
 My Account
 
 ### Order Success
-https://example.com/order-success
+https://roni-s-clothings.zappy5.app/order-success
 Thank you for your order
 
 ### Product Detail
-https://example.com/product/:slug
+https://roni-s-clothings.zappy5.app/product/:slug
 Product Details - Roni's Clothings
 
 ### Category
-https://example.com/category/:slug
+https://roni-s-clothings.zappy5.app/category/:slug
 Products - Roni's Clothings
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://roni-s-clothings.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://roni-s-clothings.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://roni-s-clothings.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -75,11 +75,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### black shirt 
-https://example.com/product/black-shirt-wjekr4
+https://roni-s-clothings.zappy5.app/product/black-shirt-wjekr4
 - Price: 15.00 USD
 - Availability: In stock
 - Category: woman shirts
-- Image: https://example.com/assets/product-enhanced-1779720656065-ggint.webp
+- Image: https://roni-s-clothings.zappy5.app/assets/product-enhanced-1779720656065-ggint.webp
 
 ---
 
@@ -100,8 +100,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://roni-s-clothings.zappy5.app/sitemap.xml
+- Robots: https://roni-s-clothings.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://roni-s-clothings.zappy5.app/llms-full.txt
+- Products (JSON): https://roni-s-clothings.zappy5.app/products.json
+- Products (Google Merchant RSS): https://roni-s-clothings.zappy5.app/product-feed.xml
