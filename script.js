@@ -9830,6 +9830,35 @@ async function loadRelatedProducts(currentProduct, t) {
 }
 /* ==ZAPPY E-COMMERCE JS END== */
 
+/* Added Component Script */
+(function () {
+  const faqItems = document.querySelectorAll('.roni-faq-item');
+
+  faqItems.forEach(function (item) {
+    const btn = item.querySelector('.roni-faq-question');
+    const answer = item.querySelector('.roni-faq-answer');
+
+    btn.addEventListener('click', function () {
+      const isActive = item.classList.contains('roni-active');
+
+      // Close all open items
+      faqItems.forEach(function (otherItem) {
+        otherItem.classList.remove('roni-active');
+        otherItem.querySelector('.roni-faq-question').setAttribute('aria-expanded', 'false');
+        const otherAnswer = otherItem.querySelector('.roni-faq-answer');
+        otherAnswer.setAttribute('hidden', '');
+      });
+
+      // Toggle current item
+      if (!isActive) {
+        item.classList.add('roni-active');
+        btn.setAttribute('aria-expanded', 'true');
+        answer.removeAttribute('hidden');
+      }
+    });
+  });
+})();
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
@@ -10739,123 +10768,6 @@ async function loadRelatedProducts(currentProduct, t) {
   } catch (e) {}
 })();
 /* END ZAPPY_MOBILE_MENU_TOGGLE */
-
-
-/* ZAPPY_FAQ_ACCORDION_TOGGLE */
-(function(){
-  try {
-    if (window.__zappyFaqToggleInit) return;
-    window.__zappyFaqToggleInit = true;
-
-    var answerSel = '[class*="faq-answer"], [class*="faq-content"], [class*="faq-body"], [class*="faq-item__answer"], .accordion-content, .accordion-body';
-
-    function initFaqToggle() {
-      var items = document.querySelectorAll('[class*="faq-item"], .accordion-item');
-      if (!items.length) return;
-
-      items.forEach(function(item) {
-        if (item.closest(answerSel)) return;
-        var question = item.querySelector(
-          '[class*="faq-question"], [class*="faq-header"], [class*="faq-item__question"], [class*="faq-item__btn"], [class*="faq-btn"], .accordion-header, .accordion-toggle'
-        );
-        if (!question) return;
-        if (question.__zappyFaqBound) return;
-        if (question.hasAttribute('onclick')) question.removeAttribute('onclick');
-        question.__zappyFaqBound = true;
-        question.style.cursor = 'pointer';
-
-        question.addEventListener('click', function(e) {
-          e.preventDefault();
-          e.stopPropagation();
-
-          var parent = item.parentElement;
-          if (parent) {
-            var siblings = parent.querySelectorAll('[class*="faq-item"], .accordion-item');
-            siblings.forEach(function(sib) {
-              if (sib !== item && sib.classList.contains('active')) {
-                sib.classList.remove('active');
-                var sibQ = sib.querySelector('[class*="faq-question"], [class*="faq-header"], [class*="faq-item__question"], [class*="faq-item__btn"], [class*="faq-btn"], .accordion-header');
-                if (sibQ) sibQ.setAttribute('aria-expanded', 'false');
-                var sibA = sib.querySelector(answerSel);
-                if (sibA) {
-                  sibA.style.maxHeight = '0';
-                  sibA.style.overflow = 'hidden';
-                  sibA.style.opacity = '0';
-                  sibA.style.paddingTop = '0';
-                  sibA.style.paddingBottom = '0';
-                }
-              }
-            });
-          }
-
-          var isActive = item.classList.toggle('active');
-          question.setAttribute('aria-expanded', isActive ? 'true' : 'false');
-
-          var answer = item.querySelector(answerSel);
-          if (answer) {
-            if (isActive) {
-              answer.style.display = '';
-              answer.style.paddingTop = '';
-              answer.style.paddingBottom = '';
-              var inners = answer.querySelectorAll(answerSel);
-              inners.forEach(function(inn) {
-                inn.style.maxHeight = '';
-                inn.style.overflow = '';
-                inn.style.opacity = '';
-                inn.style.paddingTop = '';
-                inn.style.paddingBottom = '';
-              });
-              answer.style.transition = 'none';
-              answer.style.maxHeight = 'none';
-              answer.style.opacity = '0';
-              var realH = answer.scrollHeight;
-              answer.style.maxHeight = '0';
-              answer.offsetHeight;
-              answer.style.transition = 'max-height 0.35s ease, opacity 0.25s ease, padding 0.25s ease';
-              answer.style.maxHeight = realH + 'px';
-              answer.style.overflow = 'hidden';
-              answer.style.opacity = '1';
-            } else {
-              answer.style.transition = 'max-height 0.35s ease, opacity 0.25s ease, padding 0.25s ease';
-              answer.style.maxHeight = '0';
-              answer.style.overflow = 'hidden';
-              answer.style.opacity = '0';
-              answer.style.paddingTop = '0';
-              answer.style.paddingBottom = '0';
-            }
-          }
-
-          var chevron = question.querySelector('[class*="chevron"], [class*="icon"], svg');
-          if (chevron) {
-            chevron.style.transform = isActive ? 'rotate(180deg)' : 'rotate(0deg)';
-            chevron.style.transition = 'transform 0.3s ease';
-          }
-        });
-      });
-
-      items.forEach(function(item) {
-        if (item.classList.contains('active')) return;
-        if (item.closest(answerSel)) return;
-        var answer = item.querySelector(answerSel);
-        if (answer) {
-          answer.style.maxHeight = '0';
-          answer.style.overflow = 'hidden';
-          answer.style.opacity = '0';
-          answer.style.paddingTop = '0';
-          answer.style.paddingBottom = '0';
-          answer.style.transition = 'max-height 0.35s ease, opacity 0.25s ease, padding 0.25s ease';
-        }
-      });
-    }
-
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', initFaqToggle, { once: true });
-    } else {
-      initFaqToggle();
-    }
-  } catch (e) {}
-})();
-/* END ZAPPY_FAQ_ACCORDION_TOGGLE */
 
 
 /* ZAPPY_RUNTIME_CONTRAST_FIX */
