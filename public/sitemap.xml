@@ -1,94 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://roni-s-clothings.zappy5.app</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/campaigns</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/campaigns" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/campaigns" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/campaigns" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/campaigns</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/campaigns" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/campaigns" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/campaigns" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/about</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/about" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/about</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/about" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/contact</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/contact" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/contact</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/contact" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/products</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/products" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/products" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/products</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/products" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/products" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/cart</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/cart" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/cart" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/cart</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/cart" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/cart" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/checkout</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/checkout" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/checkout" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/checkout</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/checkout" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/checkout" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/login</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/login" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/login" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/login</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/login" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/login" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/account</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/account" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/account" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/account</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/account" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/account" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/order-success</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/order-success" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/order-success" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/order-success</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/order-success" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/order-success" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/product/:slug</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/product/:slug" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/product/:slug</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/product/:slug" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/category/:slug</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/category/:slug" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/category/:slug</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/category/:slug" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/privacy</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/privacy" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/privacy</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/privacy" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/terms</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/terms" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/terms</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/terms" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/accessibility</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/accessibility" />
+  </url>
+  <url>
+    <loc>https://roni-s-clothings.zappy5.app/es/accessibility</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roni-s-clothings.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://roni-s-clothings.zappy5.app/es/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://roni-s-clothings.zappy5.app/accessibility" />
   </url>
   <url>
     <loc>https://roni-s-clothings.zappy5.app/product/black-shirt-wjekr4</loc>
